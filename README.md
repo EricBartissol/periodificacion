@@ -1,4 +1,4 @@
-# periodificacion
+# periodificación
 Excel macro building specific function to calculate periods as specified in Circular 3/2020 of spanish CNMC
 
 La Circular 3/2020 del CNMC tiene como objeto el establecimiento de la metodología para el cálculo anual de los precios de los peajes de acceso a las redes de transporte y distribución de electricidad.<br>
