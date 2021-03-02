@@ -6,8 +6,17 @@ A partir del **4 de abril del 2021** y la entrada en vigor de la nueva metodolog
 Las funciones definidas en la presente macro devuelven el codigo de periodo para un argumento de fecha y hora.
 
 
+
+
+
+
 >## Instalación
-> Para poder usar las funciones solo es necesario descargar el archivo _periodificacion.bas_ e insatalar la macro.
+> 
+> Para poder usar las funciones es necesario descargar el archivo _periodificacion.bas_.
+> 
+> <img src="https://user-images.githubusercontent.com/73427462/109632464-5b531c80-7b47-11eb-8c18-30cb69c28308.png" data-canonical-src="https://user-images.githubusercontent.com/73427462/109632464-5b531c80-7b47-11eb-8c18-30cb69c28308.png" width="300" height="200" />
+>
+> Descomprimir el archivo en una carpeta local, abrir Excel e instalar la macro.
 > 
 ><img src="https://user-images.githubusercontent.com/73427462/109394693-91668580-7928-11eb-9ed4-0d2fd13abaa2.gif" data-canonical-src="https://user-images.githubusercontent.com/73427462/109394693-91668580-7928-11eb-9ed4-0d2fd13abaa2.gif" width="250" height="200" />
 >
